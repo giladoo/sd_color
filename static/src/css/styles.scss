@@ -1,0 +1,32 @@
+.o_input {
+//     font-family: Arial !important;
+    border-width: 1px !important;
+    border-radius: 5px !important;
+
+}
+.o_field_widget.o_readonly_modifier.o_field_many2one  {
+    border-width: 1px !important;
+    border-radius: 5px !important;
+        border: 1px solid darkgray !important;
+    padding: 2px 6px !important;
+}
+.o_field_widget.o_readonly_modifier.o_field_datetime  {
+    border-width: 1px !important;
+    border-radius: 5px !important;
+        border: 1px solid darkgray !important;
+    padding: 2px 6px !important;
+}
+
+.o_group_field_row_add a {
+    color: #fa8200 !important;
+}
+
+
+
+tr.o_group_has_content{
+border-bottom: solid 1px white;
+th  {
+    background: #e1e1e1 !important;
+
+}
+}
